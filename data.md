@@ -5,7 +5,6 @@ title: ImmigSP Data
 <hr width="60%" style="height: 10px; background-color: #228b22; border-radius: 0;" align="center">
 
 <br /><br />
-When using the data, please reference the following publications 
 
 References to the data should be made as:
 <p style="border-width:1px; border-style:solid; border-color:#228b22; padding: 2em;">
@@ -17,7 +16,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 
 <br /><br />
 <hr width="100%" style="height: 3px; background-color: #228b22; border-radius: 0;" align="center">
-<br /><br />
+<br />
 <div> 
 <h2> Download Links </h2>
         <br /><br />
@@ -38,7 +37,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
   background-color: #228b22;
   text-decoration: none;
 }
-    </style>
+   
 
 <br /><br />
 <a class="btn" style="width: 30%;" href="/files/MigSP_version_1.0_public.csv" download><i class="fa fa-download"></i> .csv</a>
@@ -47,6 +46,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 
 <a class="btn" style="width: 30%;" href="/files/MigSP_version_1.0_public.rds" download><i class="fa fa-download"></i> .rds</a>
       <br /><br /><br /><br />     
+          </style>
 
 <hr width="100%" style="height: 3px; background-color: #228b22; border-radius: 0;" align="center">
         
